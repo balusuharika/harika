@@ -1,0 +1,11 @@
+km=int(input("enter the distance between two cities in kilometers: "))
+mtr=(km*1000)
+cent=(km*10000)
+print("distance between two cities in meters is: ",mtr)
+print("distance between two cities in centimeters is: ",cent)
+
+output:
+enter the distance between two cities in kilometers: 450
+distance between two cities in meters is:  450000
+distance between two cities in centimeters is:  4500000
+
